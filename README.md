@@ -8,8 +8,7 @@ Welcome to my journey of learning Machine Learning (ML) and Deep Learning (DL) f
 ### Day 1: September 4, 2024
 - **Tasks Completed:**
   1. In Python DSA - Algorithm completed (Anagrams exercise)  
-     [Learn More](https://allendowney.github.io/DSIRP/algorithms.html)  
-     [Code Link](path/to/your/code/day1_anagrams.py)
+     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-1-ML-Algorithm.ipynb)
 
 ---
 
@@ -17,27 +16,27 @@ Welcome to my journey of learning Machine Learning (ML) and Deep Learning (DL) f
 
 - **Tasks Completed:**
   1. Analysis of Algorithms - Time complexity of function (Need some more revision)  
-     [Code Link](path/to/your/code/day2_analysis_algorithms.py)
+     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-2-ML-Analysis-of-Algorithm.ipynb)
   2. Sorting Algorithms (Need some more research)  
-     [Code Link](path/to/your/code/day2_sorting_algorithms.py)
+     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-2-ML-Analysis-of-Algorithm.ipynb)
 
 ---
 
 ### Day 3: September 6, 2024
 - **Tasks Completed:**
   1. Testing Order of Growth  
-     [Code Link](path/to/your/code/day3_order_of_growth.py)
+     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-3-ML.ipynb)
   2. Quiz 1  
-     [Code Link](path/to/your/code/day3_quiz1.py)
+     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/quiz01.ipynb)
   3. Generators and Iterators  
-     [Code Link](path/to/your/code/day3_generators_iterators.py)
+     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-3-ML.ipynb)
 
 ---
 
 ### Day 4: September 9, 2024
 - **Tasks Completed:**
   1. Sets and Recursion  
-     [Code Link](path/to/your/code/day4_sets_recursion.py)
+     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-4-ML.ipynb)
 
 ---
 
