@@ -16,10 +16,14 @@ Welcome to my journey of learning Machine Learning (ML) and Deep Learning (DL) f
 
 - **Tasks Completed:**
   1. Analysis of Algorithms - Time complexity of function (gets in detail knowledge of all available algorithms)
-     [More Info](https://en.wikipedia.org/wiki/Analysis_of_algorithms) 
+     
+     [More Info](https://en.wikipedia.org/wiki/Analysis_of_algorithms)
+     
      [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-2-ML-Analysis-of-Algorithm.ipynb)
   3. Sorting Algorithms (Need some more research)
+     
      [More Info](http://en.wikipedia.org/wiki/Sorting_algorithm)
+     
      [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-2-ML-Analysis-of-Algorithm.ipynb)
 
 ---
