@@ -46,9 +46,10 @@ Welcome to my journey of learning Machine Learning (ML) and Deep Learning (DL) f
      
 ### Day 5: September 10,2024
 - **Task Completed:**
-  1.Quiz 2
+  
+   1. Quiz 2
     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/quiz02.ipynb)
-  2.DFS with beautiful soup
+  2. DFS with beautiful soup
     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-5-ML-DFS-with-bs4.ipynb)
 
 
