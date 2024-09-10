@@ -10,23 +10,18 @@ Welcome to my journey of learning Machine Learning (ML) and Deep Learning (DL) f
   1. In Python DSA - Algorithm completed (Anagrams exercise)  
      [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-1-ML-Algorithm.ipynb)
 
----
-
 ### Day 2: September 5, 2024
-
 - **Tasks Completed:**
   1. Analysis of Algorithms - Time complexity of function (gets in detail knowledge of all available algorithms)
      
      [More Info](https://en.wikipedia.org/wiki/Analysis_of_algorithms)
      
      [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-2-ML-Analysis-of-Algorithm.ipynb)
-  3. Sorting Algorithms (Need some more research)
+  2. Sorting Algorithms (Need some more research)
      
      [More Info](http://en.wikipedia.org/wiki/Sorting_algorithm)
      
      [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-2-ML-Analysis-of-Algorithm.ipynb)
-
----
 
 ### Day 3: September 6, 2024
 - **Tasks Completed:**
@@ -37,23 +32,17 @@ Welcome to my journey of learning Machine Learning (ML) and Deep Learning (DL) f
   3. Generators and Iterators  
      [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-3-ML-TOG%26Generators%26Iterators.ipynb)
 
----
-
 ### Day 4: September 9, 2024
 - **Tasks Completed:**
   1. Sets and Recursion  
      [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-4-ML-Sets%26Recursion.ipynb)
-     
-### Day 5: September 10,2024
-- **Task Completed:**
-  
-   1. Quiz 2
-    [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/quiz02.ipynb)
+
+### Day 5: September 10, 2024
+- **Tasks Completed:**
+  1. Quiz 2
+     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/quiz02.ipynb)
   2. DFS with beautiful soup
-    [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-5-ML-DFS-with-bs4.ipynb)
-
-
----
+     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-5-ML-DFS-with-bs4.ipynb)
 
 ## Future Updates
 Stay tuned for more updates as I continue my learning journey in ML and DL!
