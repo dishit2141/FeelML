@@ -43,6 +43,14 @@ Welcome to my journey of learning Machine Learning (ML) and Deep Learning (DL) f
 - **Tasks Completed:**
   1. Sets and Recursion  
      [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-4-ML.ipynb)
+     
+### Day 5: September 10,2024
+- **Task Completed:**
+  1.Quiz 2
+    [Code Link]()
+  2.DFS with beautiful soup
+    [Code Link]()
+
 
 ---
 
