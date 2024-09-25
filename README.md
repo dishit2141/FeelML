@@ -3,6 +3,10 @@
 
 Welcome to my journey of learning Machine Learning (ML) and Deep Learning (DL) from scratch! This repository serves as a daily tracker of my progress, tasks completed, and insights gained along the way.
 
+##### Tools Used 
+- [Python](https://www.python.org/downloads/), [Pip](https://pip.pypa.io/en/stable/installation/), [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Seaborn](https://seaborn.pydata.org/), [Matplotlib](https://matplotlib.org/), [PyTorch](https://pytorch.org/), [Replit](https://replit.com/), [SQL](https://www.w3schools.com/sql/), [Jupyter](https://jupyter.org/), [Streamlit](https://streamlit.io/), [Gradio](https://www.gradio.app/), [HuggingFace](https://huggingface.co/docs), [Airflow](https://airflow.apache.org/), [GCP](https://cloud.google.com/), [AWS](https://aws.amazon.com/), [Spark](https://spark.apache.org/), [Scikit-learn](https://scikit-learn.org/stable/), [Prometheus](https://prometheus.io/), [Evidently](https://www.evidentlyai.com/), [Grafana](https://grafana.com/), [Flask](https://flask.palletsprojects.com/en/2.2.x/), [Prefect](https://www.prefect.io/), [MongoDB](https://www.mongodb.com/), [Postgres](https://www.postgresql.org/), [Kafka](https://kafka.apache.org/), [Terraform](https://www.terraform.io/), [RL-Baselines](https://github.com/DLR-RM/rl-baselines3-zoo), [Unity](https://unity.com/), [W&B](https://wandb.ai/site), [Kubernetes](https://kubernetes.io/), [DBT](https://www.getdbt.com/)
+
+
 ## Daily Tracker
 
 ### Day 1: September 4, 2024
@@ -46,5 +50,30 @@ Welcome to my journey of learning Machine Learning (ML) and Deep Learning (DL) f
      
      [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-5-ML-DFS-with-bs4.ipynb)
 
+### Day 6: September 11, 2024
+- **Tasks Completed:**
+  1. Search
+     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-6-ML-Search%26Mapping%20types.ipynb)
+  2. Implementing Mapping Types
+     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-6-ML-Search%26Mapping%20types.ipynb)
+
+### Day 7: September 24, 2024
+- **Tasks Completed:**
+  1. Priority Queues and heaps 
+     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-7-Prio-Queues-heaps%26huffmancode-webcrawling)
+  2. Huffman's code
+     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-7-Prio-Queues-heaps%26huffmancode-webcrawling)
+  3. Web crawling & philosophy 
+     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-7-Prio-Queues-heaps%26huffmancode-webcrawling)
+
+### Day 8: September 25, 2024
+- **Tasks Completed:**
+  1. Redis 
+     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-8-Redis-LinkedList-Indexer.ipynb)
+  2. Linked List
+     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-8-Redis-LinkedList-Indexer.ipynb)
+  3. Indexer 
+     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-8-Redis-LinkedList-Indexer.ipynb)
+
 ## Future Updates
-Stay tuned for more updates as I continue my learning journey in ML and DL!
+Stay tuned for more updates as I continue my learning journey in ML and DL.
