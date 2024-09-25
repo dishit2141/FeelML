@@ -53,26 +53,34 @@ Welcome to my journey of learning Machine Learning (ML) and Deep Learning (DL) f
 ### Day 6: September 11, 2024
 - **Tasks Completed:**
   1. Search
+     
      [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-6-ML-Search%26Mapping%20types.ipynb)
   2. Implementing Mapping Types
+     
      [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-6-ML-Search%26Mapping%20types.ipynb)
 
 ### Day 7: September 24, 2024
 - **Tasks Completed:**
   1. Priority Queues and heaps 
+     
      [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-7-Prio-Queues-heaps%26huffmancode-webcrawling)
   2. Huffman's code
+     
      [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-7-Prio-Queues-heaps%26huffmancode-webcrawling)
   3. Web crawling & philosophy 
+     
      [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-7-Prio-Queues-heaps%26huffmancode-webcrawling)
 
 ### Day 8: September 25, 2024
 - **Tasks Completed:**
   1. Redis 
+     
      [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-8-Redis-LinkedList-Indexer.ipynb)
   2. Linked List
+     
      [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-8-Redis-LinkedList-Indexer.ipynb)
   3. Indexer 
+     
      [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-8-Redis-LinkedList-Indexer.ipynb)
 
 ## Future Updates
