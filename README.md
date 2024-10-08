@@ -87,13 +87,13 @@ Welcome to my journey of learning Machine Learning (ML) and Deep Learning (DL) f
 - **Tasks Completed:**
   1. Deque 
      
-     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-8-Redis-LinkedList-Indexer.ipynb)
+     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Python%20Fundamentals/Day-9-Deque-Graphs-LOT-BFS.ipynb)
   2. Graphs
      
-     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-8-Redis-LinkedList-Indexer.ipynb)
+     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Python%20Fundamentals/Day-9-Deque-Graphs-LOT-BFS.ipynb)
   3. LOT(Left Order Traversal)
      
-     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-8-Redis-LinkedList-Indexer.ipynb)
+     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Python%20Fundamentals/Day-9-Deque-Graphs-LOT-BFS.ipynb)
   4. BFS
      [Code Link]()
 
@@ -101,15 +101,16 @@ Welcome to my journey of learning Machine Learning (ML) and Deep Learning (DL) f
 - **Tasks Completed:**
   1. Web - Crawler 
      
-     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-8-Redis-LinkedList-Indexer.ipynb)
+     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Python%20Fundamentals/Day-10-Crawler-MSort-FFT-PageRank.ipynb)
   2. Merge Sort
      
-     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-8-Redis-LinkedList-Indexer.ipynb)
+     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Python%20Fundamentals/Day-10-Crawler-MSort-FFT-PageRank.ipynb)
   3. FFT
      
-     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-8-Redis-LinkedList-Indexer.ipynb)
+     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Python%20Fundamentals/Day-10-Crawler-MSort-FFT-PageRank.ipynb)
   4. Page Ranking
-     [Code Link]()
+     
+     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Python%20Fundamentals/Day-10-Crawler-MSort-FFT-PageRank.ipynb)
 
 ### Started with mathematic for ML
 
@@ -118,16 +119,20 @@ Welcome to my journey of learning Machine Learning (ML) and Deep Learning (DL) f
   1.  Fractions
      
      [Reference Link](http://www.xaktly.com/Fractions.html)
+  
   2. Scientific Notation
      
      [Reference Link](http://www.xaktly.com/ScientificNotation.html)
-  3. Metric System
+     
+  4. Metric System
      
      [Reference Link](http://www.xaktly.com/MetricSystem.html)
-  4. Rounding Numbers
+     
+  6. Rounding Numbers
 
      [Reference Link](http://www.xaktly.com/RoundingRules.html)
-  5. Square roots
+     
+  8. Square roots
 
      [Reference Link](http://www.xaktly.com/SquareRoots.html)
 
