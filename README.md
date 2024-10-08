@@ -83,5 +83,53 @@ Welcome to my journey of learning Machine Learning (ML) and Deep Learning (DL) f
      
      [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-8-Redis-LinkedList-Indexer.ipynb)
 
+### Day 9: 
+- **Tasks Completed:**
+  1. Deque 
+     
+     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-8-Redis-LinkedList-Indexer.ipynb)
+  2. Graphs
+     
+     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-8-Redis-LinkedList-Indexer.ipynb)
+  3. LOT(Left Order Traversal)
+     
+     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-8-Redis-LinkedList-Indexer.ipynb)
+  4. BFS
+     [Code Link]()
+
+### Day 10: 
+- **Tasks Completed:**
+  1. Web - Crawler 
+     
+     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-8-Redis-LinkedList-Indexer.ipynb)
+  2. Merge Sort
+     
+     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-8-Redis-LinkedList-Indexer.ipynb)
+  3. FFT
+     
+     [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-8-Redis-LinkedList-Indexer.ipynb)
+  4. Page Ranking
+     [Code Link]()
+
+### Started with mathematic for ML
+
+### Day 11: October 08, 2024
+- **Tasks Completed:**
+  1.  Fractions
+     
+     [Reference Link](http://www.xaktly.com/Fractions.html)
+  2. Scientific Notation
+     
+     [Reference Link](http://www.xaktly.com/ScientificNotation.html)
+  3. Metric System
+     
+     [Reference Link](http://www.xaktly.com/MetricSystem.html)
+  4. Rounding Numbers
+
+     [Reference Link](http://www.xaktly.com/RoundingRules.html)
+  5. Square roots
+
+     [Reference Link](http://www.xaktly.com/SquareRoots.html)
+
 ## Future Updates
 Stay tuned for more updates as I continue my learning journey in ML and DL.
