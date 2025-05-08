@@ -14,7 +14,7 @@ Welcome to my journey of learning Machine Learning (ML) and Deep Learning (DL) f
   1. In Python DSA - Algorithm completed (Anagrams exercise)  
      [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-1-ML-Algorithm.ipynb)
 
-### Day 2: September 5, 2024
+### Day 2: 
 - **Tasks Completed:**
   1. Analysis of Algorithms - Time complexity of function (gets in detail knowledge of all available algorithms)
      
@@ -27,7 +27,7 @@ Welcome to my journey of learning Machine Learning (ML) and Deep Learning (DL) f
      
      [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-2-ML-Analysis-of-Algorithm.ipynb)
 
-### Day 3: September 6, 2024
+### Day 3: 
 - **Tasks Completed:**
   1. Testing Order of Growth  
      [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-3-ML.ipynb)
@@ -36,12 +36,12 @@ Welcome to my journey of learning Machine Learning (ML) and Deep Learning (DL) f
   3. Generators and Iterators  
      [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-3-ML-TOG%26Generators%26Iterators.ipynb)
 
-### Day 4: September 9, 2024
+### Day 4: 
 - **Tasks Completed:**
   1. Sets and Recursion  
      [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-4-ML-Sets%26Recursion.ipynb)
 
-### Day 5: September 10, 2024
+### Day 5: 
 - **Tasks Completed:**
   1. Quiz 2
      
@@ -50,7 +50,7 @@ Welcome to my journey of learning Machine Learning (ML) and Deep Learning (DL) f
      
      [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-5-ML-DFS-with-bs4.ipynb)
 
-### Day 6: September 11, 2024
+### Day 6: 
 - **Tasks Completed:**
   1. Search
      
@@ -59,7 +59,7 @@ Welcome to my journey of learning Machine Learning (ML) and Deep Learning (DL) f
      
      [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-6-ML-Search%26Mapping%20types.ipynb)
 
-### Day 7: September 24, 2024
+### Day 7: 
 - **Tasks Completed:**
   1. Priority Queues and heaps 
      
@@ -71,7 +71,7 @@ Welcome to my journey of learning Machine Learning (ML) and Deep Learning (DL) f
      
      [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Day-7-Prio-Queues-heaps%26huffmancode-webcrawling)
 
-### Day 8: September 25, 2024
+### Day 8: 
 - **Tasks Completed:**
   1. Redis 
      
@@ -112,29 +112,45 @@ Welcome to my journey of learning Machine Learning (ML) and Deep Learning (DL) f
      
      [Code Link](https://github.com/dishit2141/FeelML/blob/main/code/Python%20Fundamentals/Day-10-Crawler-MSort-FFT-PageRank.ipynb)
 
-### Started with mathematic for ML
-
-### Day 11: October 08, 2024
+### Started with mathematic for ML - Skipping Math for now
+     
+### Kaggle week:
+### Day 11:
 - **Tasks Completed:**
-  1.  Fractions
-     
-     [Reference Link](http://www.xaktly.com/Fractions.html)
+  1. Intro to Machine Learning
+    [Kaggle Link](https://www.kaggle.com/learn/intro-to-machine-learning)
+  2. Pandas
+    [Kaggle Link](https://www.kaggle.com/learn/pandas)
+
+### Day 12:
+- **Tasks Completed:**
+  1. Intermediate to Machine Learning
+    [Kaggle Link](https://www.kaggle.com/learn/intermediate-machine-learning)
+  2. Feature Engineering
+    [Kaggle Link](https://www.kaggle.com/learn/feature-engineering)    
+    
+
+### Day 13 TO 16:
+- **Tasks Completed:**
+  1. Machine Learning Techniques
+    [Book Link](https://github.com/ipython-books/cookbook-2nd)  
+    
+### Day 17 to present:
+- **Tasks Ongoing**
+  1. Notation for ML
+    [Git Link](https://github.com/mazhengcn/suggested-notation-for-machine-learning?tab=readme-ov-file#tabel-of-contents)
+
+    [Simple Explanation of Notation](https://github.com/dishit2141/FeelML/blob/main/data/MATHEMATICAL%20NOTATION%20-EXPLANATION.docx)
   
-  2. Scientific Notation
-     
-     [Reference Link](http://www.xaktly.com/ScientificNotation.html)
-     
-  4. Metric System
-     
-     [Reference Link](http://www.xaktly.com/MetricSystem.html)
-     
-  6. Rounding Numbers
+    [Simple Explanation Notation with Examples](https://github.com/dishit2141/FeelML/blob/main/data/MATHEMATICAL%20NOTATION%20-EXPLANATION%20WITH%20EXAMPLE.docx)
 
-     [Reference Link](http://www.xaktly.com/RoundingRules.html)
-     
-  8. Square roots
+  3. Mathematics for ML (Continuing Now , skipped earlier)
+    [Book Link](https://mml-book.github.io/book/mml-book.pdf)
 
-     [Reference Link](http://www.xaktly.com/SquareRoots.html)
+  5. Design Machine Learning System
+    [Book Link](https://github.com/dishit2141/FeelML/blob/main/data/Designing%20Machine%20Learning%20Systems.pdf) 
+
 
 ## Future Updates
+## Next Topics : Deep Learning , types of Neural Networks , exercise on NN etc.
 Stay tuned for more updates as I continue my learning journey in ML and DL.
